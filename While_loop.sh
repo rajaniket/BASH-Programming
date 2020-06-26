@@ -1,3 +1,11 @@
+# -eq	Numeric Equality
+# -ne	Numeric Inquality
+# -lt	Less Than	
+# -le	Less Than or Equal	
+# -gt	Greater Than	
+# -ge	Greater Than or Equal
+
+
 x=10
 while [ $x -le 100 ]    # less then or equal 
 do
