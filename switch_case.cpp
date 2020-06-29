@@ -1,4 +1,4 @@
-#case word in 
+# case word in 
 #  pattern1)
 #    Statement(s) to be executed if pattern1 matches
 #   ;;
