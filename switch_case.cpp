@@ -1,3 +1,22 @@
+#case word in 
+#  pattern1)
+#    Statement(s) to be executed if pattern1 matches
+#   ;;
+# pattern2)
+#   Statement(s) to be executed if pattern2 matches
+#  ;;
+# pattern3)
+#   Statement(s) to be executed if pattern3 matches
+#  ;;
+#  *)
+#    Default condition to be executed
+#   ;;
+# esac
+ 
+
+
+
+
 CARS="audi"
   
 #Pass the variable in string 
