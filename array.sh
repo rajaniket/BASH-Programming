@@ -5,3 +5,5 @@ NAME[3]="Ayan"
 NAME[4]="Daisy"
 echo "First Index: ${NAME[0]}"
 echo "Second Index: ${NAME[1]}"
+echo "First Method: ${NAME[*]}"   # for access all 
+echo "Second Method: ${NAME[@]}"  # for access all
