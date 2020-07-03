@@ -6,6 +6,6 @@ do
    if [ $a -eq 5 ]
    then
       break
-   fi
+   fi # end of if
    a=`expr $a + 1`
 done
