@@ -7,6 +7,6 @@ do
    then
       echo "Number is an even number!!"
       continue
-   fi
+   fi  # end of if
    echo "Found odd number"
 done
